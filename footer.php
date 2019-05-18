@@ -64,15 +64,17 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
             </div>
         </footer>
         <!--================End Footer Area =================-->
-        
-        
-        
+
+
+
         
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="js/jquery-3.2.1.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <script src="js/popper.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
+
+
         <!-- Rev slider js -->
         <script src="vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
         <script src="vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
@@ -92,3 +94,4 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         <script src="js/smoothscroll.js"></script>
         
         <script src="js/theme.js"></script>
+

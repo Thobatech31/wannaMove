@@ -13,7 +13,7 @@
         <link href="css/font-awesome.min.css" rel="stylesheet">
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
-        
+
         <!-- Rev slider css -->
         <link href="vendors/revolution/css/settings.css" rel="stylesheet">
         <link href="vendors/revolution/css/layers.css" rel="stylesheet">
@@ -24,6 +24,8 @@
         
         <link href="css/style.css" rel="stylesheet">
         <link href="css/responsive.css" rel="stylesheet">
+
+
 
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -59,7 +61,7 @@
                             join us
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li class="nav-item"><a class="nav-link" href="blog.html">Sign Up</a></li>
+                                <li class="nav-item"><a class="nav-link" href="register.php">Register To Ship</a></li>
                                 <li class="nav-item"><a class="nav-link" href="single-blog.html">Sign in / Login</a></li>
                             </ul>
                         </li>
